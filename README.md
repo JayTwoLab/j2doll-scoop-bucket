@@ -15,6 +15,12 @@ scoop bucket list
 scoop search hello
 ```
 
+- update bucket
+
+```cmd
+scoop update
+```cmd
+
 - remove bucket
 
 ```cmd
