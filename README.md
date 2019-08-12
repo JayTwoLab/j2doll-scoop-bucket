@@ -15,3 +15,8 @@ scoop bucket list
 scoop search hello
 ```
 
+- remove bucket
+
+```cmd
+scoop bucket rm j2doll-bucket
+```
