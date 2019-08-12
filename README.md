@@ -2,26 +2,26 @@
 
 ## How to add bucket
 
-- add bucket of j2doll
+- Add bucket
 
 ```cmd
 scoop bucket add j2doll-bucket https://github.com/j2doll/j2doll-scoop-bucket.git
 ```
 
-- list app.
+- List bucket
 
 ```cmd
 scoop bucket list
 scoop search hello
 ```
 
-- update bucket
+- Update bucket
 
 ```cmd
 scoop update
-```cmd
+```
 
-- remove bucket
+- Remove bucket
 
 ```cmd
 scoop bucket rm j2doll-bucket
