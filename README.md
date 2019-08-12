@@ -4,8 +4,14 @@
 
 - add bucket of j2doll
 
-```powershell
+```cmd
 scoop bucket add j2doll-bucket https://github.com/j2doll/j2doll-scoop-bucket.git
 ```
 
+- list app.
+
+```cmd
+scoop bucket list
+scoop search hello
+```
 
