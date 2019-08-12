@@ -1,6 +1,6 @@
 # Scoop bucket for personal purpose (j2doll)
 
-## How to add bucket
+## How to apply bucket
 
 - Add bucket
 
