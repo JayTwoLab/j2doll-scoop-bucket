@@ -1,5 +1,8 @@
 { 
-    "version": "2.1", 
+	"version": "2.1", 
+	"description": "dump",
+	"homepage": "https://filezilla-project.org/",
+	"license": "GPL-2.0-or-later",
     "architecture": {
         "64bit": {
             "url": "https://gist.github.com/lukesampson/6446238/raw/hello.ps1"
