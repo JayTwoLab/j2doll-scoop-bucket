@@ -12,6 +12,11 @@ scoop bucket add j2doll-bucket https://github.com/j2doll/j2doll-scoop-bucket.git
 
 ```cmd
 scoop bucket list
+```
+
+- Search application (hello)
+
+```cmd
 scoop search hello
 ```
 
