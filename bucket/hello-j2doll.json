@@ -1,5 +1,18 @@
 { 
-	version: "1.7", 
-	url: "https://gist.github.com/lukesampson/6446238/raw/hello.ps1", 
-	bin: "hello.ps1" 
+	"version" : "1.8", 
+	"description": "ffff",
+	"homepage": "https://homepag",
+	"license": "GPL-2.0-or-later",
+    "architecture": {
+        "64bit": {
+            // "url": "https://download.filezilla-project.org/client/FileZilla_3.44.1_win64.zip",
+            // "hash": "sha512:56742c1f4726855729f91aad3a75cf86623a2d7210cf4abda029148dfe3a2e0c605d967336c939141eea34b06abb65b3658960682dc4bc36c35fa8a332281733"
+        },
+        "32bit": {
+            // "url": "https://download.filezilla-project.org/client/FileZilla_3.44.1_win32.zip",
+            // "hash": "sha512:8a4f21822564208712bb4a1489d81cf81b056185f920db16232804f55d0dc21632c8c2da1c9a5358162513c489b24959a00ee4f4df49caf4b1f4a1cfd95d1c60"
+        }
+    },
+    "extract_dir": "FileZilla-3.44.1",
+    "bin": "filezilla.exe",
 }
