@@ -13,6 +13,6 @@
             // "hash": "sha512:8a4f21822564208712bb4a1489d81cf81b056185f920db16232804f55d0dc21632c8c2da1c9a5358162513c489b24959a00ee4f4df49caf4b1f4a1cfd95d1c60"
         }
     },
-    "extract_dir": "FileZilla-3.44.1",
-    "bin": "filezilla.exe",
+    // "extract_dir": "hello-j2doll",
+    // "bin": "filezilla.exe",
 }
