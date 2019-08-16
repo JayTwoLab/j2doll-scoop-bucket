@@ -1,0 +1,15 @@
+{ 
+	"version": "2.0", 
+	"description": "downloader using jswon",
+	"homepage": "https://github.com/j2doll/json-downloader",
+	"license": "LGPL-3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/j2doll/json-downloader/releases/download/v0.2.1/json-downloader.x64.zip"
+        },
+        "32bit": {
+            "url": "https://github.com/j2doll/json-downloader/releases/download/v0.2.1/json-downloader.x86.zip"
+        }
+    },
+	"bin": "json-downloader.cmd"
+}
