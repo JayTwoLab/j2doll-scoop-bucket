@@ -1,8 +1,8 @@
 { 
-	"version": "2.1", 
-	"description": "dump",
-	"homepage": "https://filezilla-project.org/",
-	"license": "GPL-2.0-or-later",
+	"version": "3.0", 
+	"description": "hello world",
+	"homepage": "https://github.com/j2doll",
+	"license": "free",
     "architecture": {
         "64bit": {
             "url": "https://gist.github.com/lukesampson/6446238/raw/hello.ps1"
