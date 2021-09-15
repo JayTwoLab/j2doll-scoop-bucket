@@ -2,32 +2,21 @@
 
 ## How to apply bucket
 
-- Add bucket
+- Add bucket & Update bucket
 
 ```cmd
 scoop bucket add j2doll-bucket https://github.com/JayTwoLab/j2doll-scoop-bucket.git
+scoop update
 ```
 
-- List bucket
-
-```cmd
-scoop bucket list
-```
-
-- Search application (hello-j2doll)
+- Search application
 
 ```cmd
 scoop search j2doll-downloader
 ```
 
-- Update bucket
+- Install application 
 
 ```cmd
-scoop update
-```
-
-- Remove bucket
-
-```cmd
-scoop bucket rm j2doll-bucket
+scoop install j2doll-downloader
 ```
