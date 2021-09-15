@@ -5,7 +5,7 @@
 - Add bucket
 
 ```cmd
-scoop bucket add j2doll-bucket https://github.com/j2doll/j2doll-scoop-bucket.git
+scoop bucket add j2doll-bucket https://github.com/JayTwoLab/j2doll-scoop-bucket.git
 ```
 
 - List bucket
@@ -17,7 +17,7 @@ scoop bucket list
 - Search application (hello-j2doll)
 
 ```cmd
-scoop search hello-j2doll
+scoop search j2doll-downloader
 ```
 
 - Update bucket
