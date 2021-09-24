@@ -12,11 +12,11 @@ scoop update
 - Search application
 
 ```cmd
-scoop search j2doll-downloader
+scoop search json-downloader
 ```
 
 - Install application 
 
 ```cmd
-scoop install j2doll-downloader
+scoop install json-downloader
 ```
